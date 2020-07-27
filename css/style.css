@@ -665,6 +665,7 @@ font-size: 14px;
     float: right;
     margin-top: 12px;
     cursor: pointer;
+  display:none;
 }
 .asp-link{
   position: absolute;
